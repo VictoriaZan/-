@@ -42,9 +42,30 @@ namespace ConsoleApp1
             // ProcessesBytes();
             //DeclareImplictVars();
             //LinqOverInts();
-            WhileLoop();
+            //WhileLoop();
+            //Recall();
+            //Call();
+            //Res();
+            //RecallLogData();
+            //RecallFancyColor();
+            AddRecall();
         }
 
+        static int Add(int a, int b)
+        { return a + b; }
+
+        static long Add(long a, long b)
+        { return a + b; }
+
+        static double Add(double a, double b)
+        { return a + b; }
+
+        static void AddRecall()
+        {
+            Console.WriteLine(Add(10,10));
+            Console.WriteLine(Add(90000000000,9000000000));
+            Console.WriteLine(Add(4.4,3.3));
+        }
     // SYSTEM.ENVIRONMENT
         private static void ShowEnviromentDetails()
         {
@@ -278,10 +299,7 @@ namespace ConsoleApp1
                 Console.WriteLine(ex.Message);
             }
         }
-        static int Add(int x, int y)
-        {
-            return x + y;
-        }
+       
 
         static void DeclareImplictVars()
         {
@@ -314,5 +332,89 @@ namespace ConsoleApp1
                 userIdDone = Console.ReadLine();
             }
         }
+
+        static void FillTheseValues(out int a, out string b, out bool c)
+        {
+            a = 9;
+            b = "Enjoy your string.";
+            c = true;
+        }
+        static void Recall()
+        {
+            int i;
+            string str;
+            bool b;
+            FillTheseValues(out i, out str, out b);
+            Console.WriteLine("Int is: {0}", i);
+            Console.WriteLine("String is: {0}", str);
+            Console.WriteLine("Bool is: {0}", b);
+        }
+
+        public static void SwapStrings(ref string s1, ref string s2)
+        {
+            string tempString = s1;
+            s1 = s2;
+            s2 = tempString;
+        }
+
+        static void Call()
+        {
+            string str1 = "Flip";
+            string str2 = "Flop";
+            Console.WriteLine("Before: {0}, {1}", str1, str2);
+            SwapStrings(ref str1, ref str2);
+            Console.WriteLine("After: {0}, {1}", str1, str2);
+        }
+
+        static double CalculateParams(params double[] values)
+        {
+            Console.WriteLine("You sent me {0} doubles.", values.Length);
+            double sum = 0;
+            if (values.Length == 0)
+                return sum;
+            for (int i = 0; i < values.Length; i++)
+            {
+                sum += values[i];
+            }
+            return (sum / values.Length);
+        }
+
+        static void Res()
+        {
+            double a = CalculateParams(1.0,4.5,66);
+            Console.WriteLine("Average: {0}",a);
+        }
+        static void LogData(string message, string owner = "Programmer")
+        {
+            Console.WriteLine("Error: {0}", message);
+            Console.WriteLine("Owner of Error: {0}", owner);
+        }
+        static void RecallLogData()
+        {
+            LogData("Oh no!! I'm hungry!");
+            LogData("I want to eat!", "Jenny");
+        }
+
+        static void ConsoleColorFancyMessage(ConsoleColor textColor, string message, ConsoleColor backgroundColor = ConsoleColor.Black)
+        {
+            ConsoleColor oldTextColor = Console.ForegroundColor;
+            ConsoleColor oldBackgroungColor = Console.BackgroundColor;
+
+            Console.ForegroundColor = textColor;
+            Console.BackgroundColor = backgroundColor;
+
+            Console.WriteLine(message);
+
+            Console.ForegroundColor = oldTextColor;
+            Console.BackgroundColor = oldBackgroungColor;
+        }
+        static void RecallFancyColor()
+        {
+            ConsoleColorFancyMessage(message: "Wow! Very fancy indeed!",
+                textColor: ConsoleColor.DarkRed,
+                backgroundColor: ConsoleColor.White);
+            ConsoleColorFancyMessage(ConsoleColor.Blue, message: "Wow");
+        }
+
     }
 }
