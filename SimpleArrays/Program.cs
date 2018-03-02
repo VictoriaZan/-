@@ -16,6 +16,8 @@ namespace SimpleArrays
             //RectMultidemensionArray();
             //PrintPrintArray();
             //PrintGetStringArray();
+            //SystemArrayFunctionality();
+            DrWebCreatingArray();
         }
 
         static void SimpleArrays()
@@ -100,6 +102,47 @@ namespace SimpleArrays
             foreach(string str in arr)
                 Console.WriteLine(str);
         }
+
+        static void SystemArrayFunctionality()
+        {
+            string[] forestFrends = { "sqwirell", "rabit", "burunduki blin" };
+            foreach(string i in forestFrends)
+                Console.Write(i + " ");
+            Console.WriteLine();
+
+            Array.Reverse(forestFrends);
+            foreach (string i in forestFrends)
+                Console.Write(i+" ");
+            Console.WriteLine();
+
+            Array.Clear(forestFrends, 0, 2);
+            foreach (string i in forestFrends)
+                Console.Write(i);
+            Console.WriteLine();
+        }
+
+        static void DrWebCreatingArray()
+        {
+            Array myArr = Array.CreateInstance(typeof(string), 5);
+            myArr.SetValue("Name", 0);
+            myArr.SetValue("Age", 1);
+
+            Array arr2 = Array.CreateInstance(typeof(string), 5);
+
+            string s = (string)myArr.GetValue(1);
+            Console.WriteLine(s);
+
+            string[] arr1 = (string[])myArr.Clone();
+            foreach(string str in arr1)
+                Console.Write("\t"+str);
+
+            Console.WriteLine();
+            Array.Copy(myArr, arr2, myArr.Length);
+            foreach(string st in arr2)
+                Console.Write("\t"+st);
+            Console.WriteLine();
+        }
+
 
     }
 }
