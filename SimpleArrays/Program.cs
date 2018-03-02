@@ -17,7 +17,9 @@ namespace SimpleArrays
             //PrintPrintArray();
             //PrintGetStringArray();
             //SystemArrayFunctionality();
-            DrWebCreatingArray();
+            //DrWebCreatingArray();
+            // Sort();
+            SegmentsOfArray();
         }
 
         static void SimpleArrays()
@@ -143,6 +145,43 @@ namespace SimpleArrays
             Console.WriteLine();
         }
 
+        static void Sort()
+        {
+            string[] myArr = {"арбуз", "машина","лимон", "тепловоз", "кухня"};
+            foreach(string i in myArr)
+                Console.Write("\t{0}",i);
+            Console.WriteLine();
+
+            Array.Sort(myArr);
+            foreach(string i in myArr)
+                Console.Write("\t{0}",i);
+            Console.WriteLine();
+
+            int search = Array.BinarySearch(myArr, "тепловоз");
+            Console.WriteLine("Index of 12 is {0}", search);
+        }
+
+        static void SegmentsOfArray()
+        {
+            int[] arr1 = { 1, 2, 3, 4, 5, 6 };
+            int[] arr2 = { 7, 8, 9, 10 };
+
+            var SegmentsArray = new ArraySegment<int>[3]
+                {
+                    new ArraySegment<int>(arr1,0,2),
+                    new ArraySegment<int>(arr2,0,1),
+                    new ArraySegment<int>(arr1,1,2)
+                };
+            Console.WriteLine("Cумма сегментов: {0} ",SumArraySegments(SegmentsArray) );
+        }
+        static int SumArraySegments(ArraySegment<int>[] value)
+        {
+            int sum = 0;
+            foreach (var s in value)
+                for (int i = s.Offset; i < s.Offset + s.Count; i++)
+                    sum += s.Array[i];
+            return sum;
+        }
 
     }
 }
