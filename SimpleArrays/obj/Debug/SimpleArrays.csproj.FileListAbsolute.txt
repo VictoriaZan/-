@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\bin\Debug\SimpleArrays.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\bin\Debug\SimpleArrays.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\obj\Debug\SimpleArrays.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\obj\Debug\SimpleArrays.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\obj\Debug\SimpleArrays.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleArrays\obj\Debug\SimpleArrays.csprojResolveAssemblyReference.cache
