@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\bin\Debug\ClassArrays.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\bin\Debug\ClassArrays.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\bin\Debug\ClassArrays.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\obj\Debug\ClassArrays.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\obj\Debug\ClassArrays.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\obj\Debug\ClassArrays.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\ClassArrays\obj\Debug\ClassArrays.csprojResolveAssemblyReference.cache
