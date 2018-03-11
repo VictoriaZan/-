@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\bin\Debug\Struct.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\bin\Debug\Struct.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\bin\Debug\Struct.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\obj\Debug\Struct.csprojResolveAssemblyReference.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\obj\Debug\Struct.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Struct\obj\Debug\Struct.pdb
