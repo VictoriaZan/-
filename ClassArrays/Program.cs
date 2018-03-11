@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassArrays
 {
@@ -38,7 +34,8 @@ namespace ClassArrays
              //Clone
              Clone(intArray);
             CopyTo(objArray);*/
-            Array3D();
+            //Array3D();
+
         }
 
         static void IsFixed(Array arr)
