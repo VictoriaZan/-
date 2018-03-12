@@ -12,6 +12,14 @@ namespace ClassArrays
             string[] strArray = {"Word","Mama","Window","Text","Jenny","Cat","Boul","Lamp","Integer","Charlotte","states","corns","contains" };
             Object[] objArray = {"Array", 10, 11.5f, 'N', strArray };
 
+            Array.Resize<int>(ref intArray, intArray.Length + 2);
+            foreach(int i in intArray)
+                Console.Write("{0}  ",i);
+            var v = 12.99;
+            Array arr = Array.CreateInstance(v.GetType(), 5);
+            Console.WriteLine();
+            Console.WriteLine(arr.GetType());
+
             /* //properties
 
              IsFixed(intArray);
