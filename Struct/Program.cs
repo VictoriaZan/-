@@ -8,6 +8,7 @@ namespace Struct
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             /* Point point;
