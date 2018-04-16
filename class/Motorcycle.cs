@@ -12,6 +12,7 @@ namespace Cclass
         public int Speed;
         public string Owner;
         public int Miles;
+        public static int St = 111;
 
 
         public void PopAWheely()

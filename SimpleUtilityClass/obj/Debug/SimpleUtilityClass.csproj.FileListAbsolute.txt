@@ -1,0 +1,6 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\bin\Debug\StaticDataMembers.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\bin\Debug\StaticDataMembers.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\bin\Debug\StaticDataMembers.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.pdb
