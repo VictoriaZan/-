@@ -1,0 +1,6 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.pdb

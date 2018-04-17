@@ -4,3 +4,4 @@ C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\bin\Debug\StaticData
 C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.csproj.CoreCompileInputs.cache
 C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.exe
 C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\StaticDataMembers\obj\Debug\StaticDataMembers.csprojResolveAssemblyReference.cache

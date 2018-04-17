@@ -1,0 +1,6 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\bin\Debug\Garage.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\bin\Debug\Garage.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\bin\Debug\Garage.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\obj\Debug\Garage.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\obj\Debug\Garage.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Garage\obj\Debug\Garage.pdb
