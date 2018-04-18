@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace EmployeeApp
 {
-    class Employee
+    partial class Employee
     {
-        private string empName;
-        private int empID;
-        private float currPay;
-        private int empAge;
-        private string empSSN;
+        
         public string SSN { get { return empSSN; } }
         public int Age { get { return empAge; } set { empAge = value; } }
 
@@ -40,19 +36,6 @@ namespace EmployeeApp
         }
         public int ID { get { return empID; } set { empID = value; } }
         public float Pay { get { return currPay; } set { currPay = value; } }
-
-
-        public Employee() { }
-        public Employee(string name, int id, float pay, string ssn) : this(name, 0, id, pay,ssn) { } 
-
-        public Employee(string name, int age, int id, float pay, string ssn)
-        {
-            Name = name;
-            Age = age;
-            ID = id;
-            Pay = pay;
-            empSSN = ssn;
-        }
 
         public void GiveBonus(float amount)
         {

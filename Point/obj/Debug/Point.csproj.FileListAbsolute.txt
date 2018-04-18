@@ -4,3 +4,4 @@ C:\Users\Virtual\source\repos\ConsoleApp1\Point\bin\Debug\Point.pdb
 C:\Users\Virtual\source\repos\ConsoleApp1\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
 C:\Users\Virtual\source\repos\ConsoleApp1\Point\obj\Debug\Point.exe
 C:\Users\Virtual\source\repos\ConsoleApp1\Point\obj\Debug\Point.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
