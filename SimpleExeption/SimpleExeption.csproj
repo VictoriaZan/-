@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{476BB349-D982-4869-AB13-84D0B2EC82C3}</ProjectGuid>
+    <ProjectGuid>{CE8A1BB0-4AD1-44AF-9FBB-D8DA2E3E25DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Garage</RootNamespace>
-    <AssemblyName>Garage</AssemblyName>
+    <RootNamespace>SimpleExeption</RootNamespace>
+    <AssemblyName>SimpleExeption</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

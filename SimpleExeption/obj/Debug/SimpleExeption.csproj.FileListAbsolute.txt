@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\bin\Debug\SimpleExeption.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\bin\Debug\SimpleExeption.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\bin\Debug\SimpleExeption.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\obj\Debug\SimpleExeption.csprojResolveAssemblyReference.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\obj\Debug\SimpleExeption.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\obj\Debug\SimpleExeption.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\SimpleExeption\obj\Debug\SimpleExeption.pdb
