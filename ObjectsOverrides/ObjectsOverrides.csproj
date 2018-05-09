@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0046AFD3-2F7A-43E7-9288-C1C35E48CA9E}</ProjectGuid>
+    <ProjectGuid>{459FD1B4-594C-46B8-810E-1D1C0C467E8A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EmployeeApp</RootNamespace>
-    <AssemblyName>EmployeeApp</AssemblyName>
+    <RootNamespace>ObjectsOverrides</RootNamespace>
+    <AssemblyName>ObjectsOverrides</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,15 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="Employee.Internal.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

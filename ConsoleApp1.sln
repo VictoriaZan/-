@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garage", "Garage\Garage.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point", "Point\Point.csproj", "{7B77C294-B868-401E-A5EF-DB98DE0E00F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees\Employees.csproj", "{F34C86A4-8845-479D-9F0B-07610089B15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsOverrides", "ObjectsOverrides\ObjectsOverrides.csproj", "{459FD1B4-594C-46B8-810E-1D1C0C467E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{7B77C294-B868-401E-A5EF-DB98DE0E00F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B77C294-B868-401E-A5EF-DB98DE0E00F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B77C294-B868-401E-A5EF-DB98DE0E00F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34C86A4-8845-479D-9F0B-07610089B15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34C86A4-8845-479D-9F0B-07610089B15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34C86A4-8845-479D-9F0B-07610089B15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34C86A4-8845-479D-9F0B-07610089B15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459FD1B4-594C-46B8-810E-1D1C0C467E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459FD1B4-594C-46B8-810E-1D1C0C467E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459FD1B4-594C-46B8-810E-1D1C0C467E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459FD1B4-594C-46B8-810E-1D1C0C467E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

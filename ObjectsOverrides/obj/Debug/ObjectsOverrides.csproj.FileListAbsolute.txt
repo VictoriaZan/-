@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\bin\Debug\ObjectsOverrides.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\bin\Debug\ObjectsOverrides.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\bin\Debug\ObjectsOverrides.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\obj\Debug\ObjectsOverrides.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\obj\Debug\ObjectsOverrides.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\obj\Debug\ObjectsOverrides.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\ObjectsOverrides\obj\Debug\ObjectsOverrides.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\bin\Debug\Employees.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\bin\Debug\Employees.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\bin\Debug\Employees.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\obj\Debug\Employees.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\obj\Debug\Employees.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
