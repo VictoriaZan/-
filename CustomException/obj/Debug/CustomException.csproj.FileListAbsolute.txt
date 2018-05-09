@@ -1,0 +1,7 @@
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\bin\Debug\CustomException.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\bin\Debug\CustomException.pdb
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\obj\Debug\CustomException.exe
+C:\Users\Virtual\source\repos\ConsoleApp1\CustomException\obj\Debug\CustomException.pdb
