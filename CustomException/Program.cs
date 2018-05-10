@@ -18,12 +18,25 @@ namespace CustomException
             try
             {
                 for (int i = 0; i < 10; i++)
-                    myCar.Accelerate(10);
+                    myCar.Accelerate(-10);
             }
+            
             catch (CarIsDeadException ex)
             {
                 Console.WriteLine("Message {0}, Time {1}, Cause {2}", ex.Message, ex.ErrorTimeStamp, ex.CauseOfError);
                 
+            }
+            catch(ArgumentOutOfRangeException a)
+            {
+                Console.WriteLine(a.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                myCar.CrankTunes(false);
             }
         }
     }
